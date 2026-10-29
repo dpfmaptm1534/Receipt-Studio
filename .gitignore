@@ -1,0 +1,10 @@
+bin/
+obj/
+dist/
+build-ocr/
+*.user
+.vs/
+.local-publish/
+test-output/
+*.receipt
+*.pdb

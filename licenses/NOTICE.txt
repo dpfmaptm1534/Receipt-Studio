@@ -1,0 +1,24 @@
+Receipt Studio OCR - Third-party notices
+
+Tesseract .NET wrapper 5.2.0
+Copyright 2012-2022 Charles Weld. Apache License 2.0.
+https://github.com/charlesw/tesseract
+
+Tesseract OCR 5.2.0
+Apache License 2.0. https://github.com/tesseract-ocr/tesseract
+
+Tesseract fast Korean and English trained data
+Apache License 2.0. https://github.com/tesseract-ocr/tessdata_fast
+Models downloaded 2026-10-29; binary data retained without modification.
+
+Leptonica 1.82.0
+Copyright (C) 2001 Leptonica. BSD-style license in Leptonica-LICENSE.txt.
+https://github.com/DanBloomberg/leptonica
+
+InteropDotNet (included by the wrapper)
+Copyright 2014 Andrey Akinshin. MIT license in InteropDotNet-LICENSE.txt.
+https://github.com/AndreyAkinshin/InteropDotNet
+
+License texts are included in this directory and embedded in the executable.
+Upstream engine, wrapper, and model binaries are not modified.
+Receipt Studio adds its own date parsing, review, and sorting interface.
